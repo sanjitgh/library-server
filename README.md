@@ -82,7 +82,6 @@ npm run dev
   bookId: ObjectId (required),
   quantity: Number (required),
   dueDate: Date (required),
-  borrowDate: Date (default: now)
 }
 ```
 
